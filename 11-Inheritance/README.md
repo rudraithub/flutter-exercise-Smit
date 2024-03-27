@@ -23,3 +23,19 @@ kiya
 Jinal
 anjali
 
+## 1104-  Write a program which print below outout when program run/executed(Multiple Inheritance).
+
+Test Data String: City Name
+
+Expected Output:
+bhavnagar
+surat
+rajkot
+
+##  1105-  Write a program which print below outout when program run/executed(Hierarchical Inheritance).
+
+Test Data String: Bank name
+
+Expected Output:
+Axis
+Axis
